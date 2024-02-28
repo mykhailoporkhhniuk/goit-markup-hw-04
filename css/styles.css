@@ -301,8 +301,7 @@ body {
 
 .our-team-icon-list {
     display: flex;
-    padding-right: 16px;
-    padding-left: 16px;
+    justify-content: center;
     gap: 24px;
 }
 
